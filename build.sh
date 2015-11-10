@@ -59,6 +59,7 @@ CONFIGURE_STRING="--prefix=/usr/local/php7 \
                   --enable-sysvsem \
                   --enable-sysvshm \
                   --enable-wddx \
+                  --enable-debug \
                   --with-zlib \
                   --enable-zip \
                   --with-readline \
